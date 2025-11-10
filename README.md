@@ -21,3 +21,10 @@ https://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/#expansion-h
 
 Feedback and improvements are welcome!
 The current fix works but is still a bit rough around the edges, and I'd love to see cleaner or alternative solutions from the community.
+
+
+Please note:
+
+The original code is subject to the license specified in the SparkFun repository.
+This repository does not claim ownership of the original code.
+For official usage, distribution, or modification rights, refer to the license in the original repository.
