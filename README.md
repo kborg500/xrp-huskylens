@@ -1,3 +1,5 @@
+![XRP Pinout](images/xrp-logo-build-code-create.webp)
+
 # xrp-huskylens
 This repository provides support for using a HuskyLens with the XRP robot.
 This is an unofficial project and is not maintained by the HuskyLens or XRP developers.
